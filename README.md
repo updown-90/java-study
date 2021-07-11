@@ -5,5 +5,5 @@ README.md에 정리한 내용을 기재하지않고 주제만 적어놓고 블�
 # 공부할 주제
   1. Error vs Exception
   2. Thread
-  3. Serializable
+  3. String, StringBuffer, StringBuilder
   4. Collection
