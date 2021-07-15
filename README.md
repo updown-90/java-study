@@ -1,3 +1,15 @@
-# 자바에 대해 애매하거나 모르는부분을 직접 해보고 기록하기위한 저장소
-README.md에 정리한 내용을 기재하지않고 블로그에 정리하고있습니다
-블로그 주소 -> https://updown90.tistory.com/
+# 자바에 대해 공부해보는 저장소
+
+
+# 이론에대해 더 공부해보고 싶은 부분을 기록하는 블로그 주소
+https://updown90.tistory.com/
+
+# main branch 
+애매하거나 이해가 잘 안돼 직접 코딩한 기록을 저장하는 
+
+# godOfJava branch
+자바의신에 연습문제를 풀어보고 기록하는 저장소
+![image](https://user-images.githubusercontent.com/52308702/125734729-1f9ff51d-c8ac-459e-8e38-8de0ab5ebc08.png)
+
+
+
