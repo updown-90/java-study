@@ -16,5 +16,8 @@ public class StringStudy {
 
 		System.out.println(literalString2 == objectString);
 		System.out.println(literalString2.equals(objectString));
+
+		System.out.println(literalString1.hashCode());
+		System.out.println(literalString2.hashCode());
 	}
 }
